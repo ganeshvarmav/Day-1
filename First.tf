@@ -13,3 +13,5 @@ resource "azurerm_resource_group" "hello_world_rg" {
 output "resource_group_name" {
   value = azurerm_resource_group.hello_world_rg.name
 }
+
+#Satya sai ganesh
